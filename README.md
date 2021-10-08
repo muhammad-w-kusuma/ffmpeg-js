@@ -1,4 +1,4 @@
-## POC - Embed text to video programatically using node and ffmpeg
+## POC - Embed text to video programmatically using node and ffmpeg
 
 ### How to run:
 1. Run `npm install`
